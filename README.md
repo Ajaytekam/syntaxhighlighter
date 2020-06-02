@@ -5,22 +5,28 @@
 * Include Core library :   
 
 ```html
-<script src="scripts/hCore.js"></script>
-<link href="styles/shCoreDefault.css" rel="stylesheet"></link>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/scripts/shCore.js"></script>
+<link href="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/styles/shCoreDefault.css" rel="stylesheet">
 ```  
 
 * Include Brushes :   
 
 ```html  
-<script src='brushes/shBrushBash.js' type='text/javascript'/>
-<script src='brushes/shBrushXml.js' type='text/javascript'/>
-<script src='brushes/shBrushCss.js' type='text/javascript'/>
-<script src='brushes/shBrushJScript.js' type='text/javascript'/>
-<script src='brushes/shBrushPhp.js' type='text/javascript'/>
-<script src='brushes/shBrushPlain.js' type='text/javascript'/>
-<script src='brushes/shBrushSql.js' type='text/javascript'/>	
-<script src='brushes/shBrushCpp.js' type='text/javascript'/>
-<script src='brushes/shBrushPython.js' type='text/javascript'/>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushBash.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushCSharp.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushCpp.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushCss.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushJScript.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushJava.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushPerl.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushPhp.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushPlain.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushPowerShell.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushPython.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushRuby.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushSql.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushVb.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ajaytekam/syntaxhighlighter/dist/brushes/shBrushXml.js"></script>
 ```  
 
 * Implement the brush with :   
